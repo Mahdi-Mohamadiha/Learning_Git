@@ -5,4 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 
-A new update for checking pull command
+A new update for checking pull command.
